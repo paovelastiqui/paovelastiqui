@@ -1,8 +1,8 @@
-<h2 align="left">Hola! 👋<br>Mi nombre es Paola Velastiqui<br>Soy Frond End Developer</h2>
+<h2 align="left">Hola! 👋<br>Mi nombre es Paola Velastiqui<br>Soy Full Stack Developer</h2>
 
 ###
 
-<p align="left">Soy una Desarrolladora Web que cuenta con conocimientos en diferentes tecnologías orientadas al Front End.<br>Actualmente me encuentro en la profundización de React JS.</p>
+<p align="left">Soy una Desarrolladora Web que cuenta con conocimientos en HTML, CSS, JavaScript y React JS, entre otros.<br>Actualmente me encuentro estudiando Programación (con orientación en Python) en el C.F.P. Nº36.</p>
 
 ###
 
@@ -30,6 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
 ###
